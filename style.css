@@ -1,0 +1,36 @@
+body{
+    background-image:linear-gradient(rgba(0,0,0,60%),rgba(0,0,0,60%)),url(woman-1979272.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.hy{
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: monospace;
+}
+.why{
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.wy{
+    color: #fff;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    font-family: monospace;
+}
+.y{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.y img{
+    border: double;
+    border-radius: 20px;
+}
